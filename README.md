@@ -31,7 +31,7 @@ ________________________________________________________________________________
 | SmartNews for Chrome (Android app) **By: Smartnews, Inc.**  | [Zippyshare](http://www16.zippyshare.com/d/TOQE3QVc/50542/SmartNews%20for%20Chrome.zip) :: [Google Play Store](https://play.google.com/store/apps/details?id=jp.gocro.smartnews.android&hl=en) |
 | ColorNote for Chrome (Android App) **Current Version: Latest**  | [ZippyShare](http://www47.zippyshare.com/d/Z2w7VkXr/12013/ColorNote%20for%20Chrome.zip) :: [Google Play Store](https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note&hl=en)   |
 
-> I cannot post any download links for the premium (paid) Android apps - that work on Chrome, because of Copyright & the possibility of getting sued
+> I cannot post any download links for the premium (paid) Android apps - that work on Chrome, because of Copyright & the possibility of getting sued. Please contact me for more information and/or other **services**.
 
 - Unzip the applications, and load it as an unpacked extension to chrome://extensions
 - Make sure you have Developer mode turned on
