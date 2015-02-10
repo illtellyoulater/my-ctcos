@@ -28,10 +28,24 @@ ________________________________________________________________________________
 | Application  | Download |
 |---|---|
 | Chess Free (Android app) **By: AI Factory Limited**  |  [Zippyshare](http://www56.zippyshare.com/d/jereRou5/22913/Chess%20Free.zip) :: [Google Play Store](https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree&hl=en) |
-| SmartNews for Chrome (Android app) **By: Smartnews, Inc.**  (Android App) | [Zippyshare](http://www16.zippyshare.com/d/TOQE3QVc/50542/SmartNews%20for%20Chrome.zip) :: [Google Play Store](https://play.google.com/store/apps/details?id=jp.gocro.smartnews.android&hl=en) |
-| ColorNote for Chrome **Current Version: Latest**  | [ZippyShare](http://www47.zippyshare.com/d/Z2w7VkXr/12013/ColorNote%20for%20Chrome.zip) :: [Google Play Store](https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note&hl=en)   |
+| SmartNews for Chrome (Android app) **By: Smartnews, Inc.**  | [Zippyshare](http://www16.zippyshare.com/d/TOQE3QVc/50542/SmartNews%20for%20Chrome.zip) :: [Google Play Store](https://play.google.com/store/apps/details?id=jp.gocro.smartnews.android&hl=en) |
+| ColorNote for Chrome (Android App) **Current Version: Latest**  | [ZippyShare](http://www47.zippyshare.com/d/Z2w7VkXr/12013/ColorNote%20for%20Chrome.zip) :: [Google Play Store](https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note&hl=en)   |
 
 
-- Unzip it, Load it as an unpacked extension.
+- Unzip the applications, and load it as an unpacked extension to chrome://extensions
+- Make sure you have Developer mode turned on
+<img src="http://v14d.com/g/chromeapks/howto.png" width="500px" />
+
+#### Do it Yourself!
+
+> Using these programs/applications/websites, you can decompile APKs and make your own ChromeOS applications from the Google Play Store.
+
+| Program  | URL/Download |
+|---|---|
+| Twerk for Chrome - **Decompile APKs - turn APKs into ChromeOS Applications - very easy & effective**  |  [Chrome Web Store](https://chrome.google.com/webstore/detail/twerk/jhdnjmjhmfihbfjdgmnappnoaehnhiaf?hl=en) |
+| ARChon Packager (Android app: Won't work on ChromeOS) - **Decompile APKs, turn APKs & apps into ChromeOS Applications - very easy & effective**  | [Google Play Store](https://play.google.com/store/apps/details?id=me.bpear.archonpackager&hl=en) |
+| APK Downloader (Website) - **Download APKs directly from the Google Play Store**  | [URL](http://apps.evozi.com/apk-downloader/) :: Will show demo on how to use  |
+| Find APKS (Website) - **Download premium APKs - latest versions**  | [URL](http://apks.org/) :: Will show demo on how to use   |
+
 
 
