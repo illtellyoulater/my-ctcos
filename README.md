@@ -64,7 +64,7 @@ Instructions:
 
 - Click 'Generate Download Link'
 
-<img src="https://cloud.githubusercontent.com/assets/10813130/6135425/7a7b1b76-b136-11e4-9c3e-c9295cdbe9e0.png" width="542px" />
+<img src="https://cloud.githubusercontent.com/assets/10813130/6136765/8c1006d4-b141-11e4-87b7-f7ad8b1f11b5.png" />
 
 - Click 'Click here to download [package name] now
 
