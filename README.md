@@ -72,3 +72,28 @@ Instructions:
 
 - You're all set!
 
+
+#### How to use APKS.ORG
+> A pictorial/informational guide on how to effectively use apks.org
+
+Instructions:
+- Find your free or premium app
+
+<img src="https://cloud.githubusercontent.com/assets/10813130/6137067/eb978b2a-b143-11e4-9ccb-dcd1a20231fe.png" />
+
+- Copy the package name from the URL
+
+<img src="https://cloud.githubusercontent.com/assets/10813130/6137070/ef7d08aa-b143-11e4-9de4-3a8ce52d8215.png" />
+
+- Paste the package name into the apks.org search form
+
+<img src="https://cloud.githubusercontent.com/assets/10813130/6137072/f2df6c86-b143-11e4-985d-45cf79ccc99a.png" />
+
+- Search
+- Pick a link from the results
+- [If redirected to getandroidapp.org], scroll to bottom of app page and click the 'Download it from APKs Servers' button
+
+<img src="http://getandroidapp.org/apks-server.gif" />
+
+- Viola!
+
