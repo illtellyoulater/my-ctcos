@@ -142,9 +142,33 @@ Instructions:
 		- Find `"custom-android-release-1400197.apk"` - erase `custom-android-release-1400197.apk`. Instead of that, write `app-release`. It should look like this: `"app-release"`.
 		- Save the file
 		- Load the unpacked extension to chrome://extensions
+- If all that didn't work, the app is NOT compatible with ChromeOS
 	- All in all, it's a matter of trial and error.
-
 
 
 *Sometimes Twerk doesn't work. In case it doesn't - I have a guide for that too.
 
+__________________________________________________________________________________________
+
+## Using ARChon Packager: Instructions
+> Wherever there is a star, means I'm directing you to a footnote. One * equals footnote #1. Two **'s equals footnote #2, and so on.
+
+
+- If you already have an application on your phone that you want to turn into a ChromeOS application, this is the app you want.
+- Download the app from [here](https://play.google.com/store/apps/details?id=me.bpear.archonpackager&hl=en)
+- Don't try downloading this on your Chromebook. I tried, and it didn't work. (It opened up, but when it came to choosing the files, it crashed.)
+- Run the application on your Android device
+- Click 'Next'
+- Click 'Installed application' (or 'Select an APK from phone's storage), then click 'Next'
+- Choose an application
+- Choose Phone/Tablet mode - be smart. If you know that it won't work on a tablet, then the app won't work if you choose tablet mode.
+- Choose orientation/landscape
+- Choose 'Enable access to apps files on PC/Chrome
+- Tap 'Next' -> Share Chrome Application - email it to yourself/Dropbox/etc.. (I prefer [Aqua Mail](https://play.google.com/store/apps/details?id=org.kman.AquaMail&hl=en)
+- Download the attachment from the Email on your Chromebook
+- Unpack it -> Load the unpacked extension to chrome://extensions
+- Enjoy! (Unless of course, the app doesn't work - haven't found a solution for that yet.)
+
+__________________________________________________________________________________________
+
+## This has been My Contribution to ChromeOS (CTCOS), I hope you found these guides useful! - Yeshourun
