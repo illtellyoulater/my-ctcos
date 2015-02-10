@@ -36,7 +36,7 @@ ________________________________________________________________________________
 - Make sure you have Developer mode turned on
 <img src="http://v14d.com/g/chromeapks/howto.png" width="500px" />
 
-#### Do it Yourself!
+# Do it Yourself!
 
 > Using these programs/applications/websites, you can decompile APKs and make your own ChromeOS applications from the Google Play Store.
 
@@ -47,5 +47,19 @@ ________________________________________________________________________________
 | APK Downloader (Website) - **Download APKs directly from the Google Play Store**  | [URL](http://apps.evozi.com/apk-downloader/) :: Will show demo on how to use  |
 | Find APKS (Website) - **Download premium APKs - latest versions**  | [URL](http://apks.org/) :: Will show demo on how to use   |
 
+## How-to guide
 
+
+#### How to use the APK Downloader
+> A pictoral/informational guide on how to effectively use apps.evozi.com/apk-downloader/
+
+Instructions:
+- Take the package name or the Google play URL (Preferably the package name)
+<img src="https://cloud.githubusercontent.com/assets/10813130/6135419/6e259d4c-b136-11e4-8215-c684811e2eb3.png" />
+- Paste the package name into the form
+- Click 'Generate Download Link'
+<img src="https://cloud.githubusercontent.com/assets/10813130/6135425/7a7b1b76-b136-11e4-9c3e-c9295cdbe9e0.png" />
+- Click 'Click here to download [package name] now
+<img src="https://cloud.githubusercontent.com/assets/10813130/6135432/85030770-b136-11e4-97f8-7315ca43afc0.png" />
+- You're all set!
 
