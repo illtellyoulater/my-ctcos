@@ -135,7 +135,7 @@ Instructions:
 	- Save it somewhere
 	- Load the Unpacked Extension to chrome://extensions
 	- Run it - if the application crashes after the first time, don't backdown, it'll probably restart again. If after crashing, it doesn't restart, run it again. If it doesn't work, delete the app from the **chrome://extensions page**.
-		**This is the last resort for an app that doesn't work with all what I wrote above**
+		**This is the last resort for an app that doesn't work with all what I wrote above:**
 		- Go to the app directory
 		- Find manifest.json
 		- Edit it
