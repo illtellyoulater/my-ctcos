@@ -19,6 +19,8 @@ My contributions allows you to run many seperate apps on ChromeOS & on any platf
 
 > Read LICENSE.txt
 
+__________________________________________________________________________________________
+
 > Download the official Chrome APK Apps list - this guide tells you which apps work, how well, and on what they run: [Zippyshare](http://www67.zippyshare.com/d/Y8mP7mts/3627/Chrome%20APK%20Official%20Apps%20List.pdf) -> Very informative!
 
 ### Applications
