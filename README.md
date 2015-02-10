@@ -72,6 +72,7 @@ Instructions:
 
 - You're all set!
 
+__________________________________________________________________________________________
 
 #### How to use APKS.ORG
 > A pictorial/informational guide on how to effectively use apks.org
