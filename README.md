@@ -57,10 +57,9 @@ Instructions:
 - Take the package name or the Google play URL (Preferably the package name)
 <img src="https://cloud.githubusercontent.com/assets/10813130/6135419/6e259d4c-b136-11e4-8215-c684811e2eb3.png" />
 - Paste the package name into the form
+<img src="https://cloud.githubusercontent.com/assets/10813130/6136629/4dd9295a-b140-11e4-8649-06502d5c01de.png" />
 - Click 'Generate Download Link'
 <img src="https://cloud.githubusercontent.com/assets/10813130/6135425/7a7b1b76-b136-11e4-9c3e-c9295cdbe9e0.png" width="542px" />
-
-___
 - Click 'Click here to download [package name] now
 <img src="https://cloud.githubusercontent.com/assets/10813130/6135432/85030770-b136-11e4-97f8-7315ca43afc0.png" />
 - You're all set!
