@@ -1,10 +1,10 @@
 # My CTCOS
 My Contributions to ChromeOS (CTCOS)
 
-Here, I have Google Play Store applications that are otherwise unavailable for download in ChromeOS format anwywhere ele.
-On some of them I worked hard to make into COS applications, and others, were blissfully easy.
+Here, I have Google Play Store applications that are otherwise unavailable for download in ChromeOS format anwywhere else, and informational guides (with pictures!) to help you setup, run and create your own ChromeOS compatible applications.
+Enjoy!
 
-My contributions allows you to run many seperate apps on ChromeOS & on any platform that supports Chrome. Enjoy.
+> Please read the LICENSE.txt
 
 ## Instructions
 
@@ -16,8 +16,6 @@ My contributions allows you to run many seperate apps on ChromeOS & on any platf
 - Unpack
 - Load as unpacked extension to chrome://extensions (Enable Developer mode)
 - Launch
-
-> Read LICENSE.txt
 
 __________________________________________________________________________________________
 
