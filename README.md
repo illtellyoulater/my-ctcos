@@ -6,6 +6,14 @@ Enjoy!
 
 > Please read the LICENSE.txt
 
+### Legend
+| Contents  | Sub-content |
+|---|---|
+| [Instructions](https://github.com/ctcos/my-ctcos#instructions) | [Applications](https://github.com/ctcos/my-ctcos#applications)  |
+| [Do it Yourself!](https://github.com/ctcos/my-ctcos#do-it-yourself) | [How-to Guide](https://github.com/ctcos/my-ctcos#how-to-guide), [How to use the APK Downloader](https://github.com/ctcos/my-ctcos#how-to-use-the-apk-downloader), [How to use APKS.ORG](https://github.com/ctcos/my-ctcos#how-to-use-apksorg)  |
+| [Whats to do with APKs, once downloaded](https://github.com/ctcos/my-ctcos#what-to-do-with-apks-once-downloaded) | [Using Twerk: Instructions](https://github.com/ctcos/my-ctcos#using-twerk-instructions), [Using ARChon Packager: Instructions](https://github.com/ctcos/my-ctcos#using-archon-packager-instructions)  |
+| [The Finale](https://github.com/ctcos/my-ctcos#this-has-been-my-contribution-to-chromeos-ctcos-i-hope-you-found-these-guides-useful---yeshourun)  |
+
 ## Instructions
 
 - Get [ARChon Custom Runtime](https://github.com/vladikoff/chromeos-apk/blob/master/archon.md)
