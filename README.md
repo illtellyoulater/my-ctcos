@@ -1,5 +1,7 @@
 # My CTCOS
 My Contributions to ChromeOS (CTCOS)
+Download Android apps onto your Chromebook! 
+Find out how, using this informational guide - pictures included!
 
 Here, I have Google Play Store applications that are otherwise unavailable for download in ChromeOS format anwywhere else, and informational guides (with pictures!) to help you setup, run and create your own ChromeOS compatible applications.
 Enjoy!
