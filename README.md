@@ -1,4 +1,6 @@
-# My CTCOS
+# UPDATE: ARChon has been discontinued long ago, and these instrucions will no longer fix problems with your Android app not getting past the Android logo screen!
+
+## My CTCOS
 My Contributions to ChromeOS (CTCOS)
 ## Download Android apps onto your Chromebook! 
 ### Find out how, using this informational guide - pictures included!
